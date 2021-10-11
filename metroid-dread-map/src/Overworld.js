@@ -21,18 +21,18 @@ function Overworld(){
             <section className="mapContainer">
                 <Router>
                     <Switch>
-                        <Route exact path ="/" component={AreaSelection}/>
-                        <Route exact path ="/Artaria" component = {Artaria}/>
-                        <Route exact path ="/Cataris" component = {Cataris}/>
-                        <Route exact path ="/Dairon" component = {Dairon}/>
-                        <Route exact path ="/Ghavoran" component = {Ghavoran}/>
-                        <Route exact path ="/Burenia" component = {Burenia}/>
-                        <Route exact path ="/Ferenia" component = {Ferenia}/>
-                        <Route exact path ="/Elun" component = {Elun}/>
-                        <Route exact path ="/Hanubia" component = {Hanubia}/>
-                        <Route exact path ="/Itorash" component = {Itorash}/>
+                        <Route exact path ="/Metroid-Dread-Map" component={AreaSelection}/>
+                        <Route exact path ="/Metroid-Dread-Map/Artaria" component = {Artaria}/>
+                        <Route exact path ="/Metroid-Dread-Map/Cataris" component = {Cataris}/>
+                        <Route exact path ="/Metroid-Dread-Map/Dairon" component = {Dairon}/>
+                        <Route exact path ="/Metroid-Dread-Map/Ghavoran" component = {Ghavoran}/>
+                        <Route exact path ="/Metroid-Dread-Map/Burenia" component = {Burenia}/>
+                        <Route exact path ="/Metroid-Dread-Map/Ferenia" component = {Ferenia}/>
+                        <Route exact path ="/Metroid-Dread-Map/Elun" component = {Elun}/>
+                        <Route exact path ="/Metroid-Dread-Map/Hanubia" component = {Hanubia}/>
+                        <Route exact path ="/Metroid-Dread-Map/Itorash" component = {Itorash}/>
                     </Switch>
-                    <Link to="/" id="back"><i className="fas fa-arrow-left"></i></Link>
+                    <Link to="/Metroid-Dread-Map/" id="back"><i className="fas fa-arrow-left"></i></Link>
                 </Router>      
             </section>
         </div>
