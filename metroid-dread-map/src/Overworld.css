@@ -1,5 +1,4 @@
 #artaria{
-    width: 10vh;
     background-color: grey;
     color:white;
     position: absolute;
@@ -93,3 +92,5 @@
   #sequenceBreaking > h1 {
       text-align: center;
   }
+
+  
