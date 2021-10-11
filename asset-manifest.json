@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Metroid-Dread-Map/static/css/main.5248e434.chunk.css",
-    "main.js": "/Metroid-Dread-Map/static/js/main.74c2c56a.chunk.js",
-    "main.js.map": "/Metroid-Dread-Map/static/js/main.74c2c56a.chunk.js.map",
+    "main.js": "/Metroid-Dread-Map/static/js/main.7eb840ed.chunk.js",
+    "main.js.map": "/Metroid-Dread-Map/static/js/main.7eb840ed.chunk.js.map",
     "runtime-main.js": "/Metroid-Dread-Map/static/js/runtime-main.11696e9a.js",
     "runtime-main.js.map": "/Metroid-Dread-Map/static/js/runtime-main.11696e9a.js.map",
     "static/js/2.6c5ab38c.chunk.js": "/Metroid-Dread-Map/static/js/2.6c5ab38c.chunk.js",
@@ -25,6 +25,6 @@
     "static/js/runtime-main.11696e9a.js",
     "static/js/2.6c5ab38c.chunk.js",
     "static/css/main.5248e434.chunk.css",
-    "static/js/main.74c2c56a.chunk.js"
+    "static/js/main.7eb840ed.chunk.js"
   ]
 }
