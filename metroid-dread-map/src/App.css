@@ -12,10 +12,38 @@ header{
   align-items: center;
 }
 
+.box > h1{
+  color: darkred;
+  font-style: italic;
+}
+
 .box:first-child > img { 
   max-width: 100%;
   height: auto;
 }
+
+nav > a{
+  margin: 5px;
+  text-decoration: none;
+  color: white;
+  transition: .5s;
+}
+
+nav > a:hover{
+  text-decoration: underline;
+  color:yellow
+}
+
+#map{
+  width: 100%;
+  height: auto;
+}
+
+
+
+
+
+
 
 
 

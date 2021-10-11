@@ -1,0 +1,95 @@
+#artaria{
+    width: 10vh;
+    background-color: grey;
+    color:white;
+    position: absolute;
+    left: 45%;
+    bottom: 15%;
+  }
+  
+  #Cataris {
+    position: absolute;
+    right: 10%;
+    bottom: 25%;
+    background-color: orangered;
+    color: brown;
+  }
+  
+  #Ghavoran {
+    position: absolute;
+    right: 80%;
+    bottom: 75%;
+    background-color: greenyellow;
+  }
+  
+  #Burenia {
+    position: absolute;
+    right: 80%;
+    bottom: 50%;
+    background-color: turquoise;
+  }
+  
+  #Ferenia {
+    position: absolute;
+    right: 50%;
+    bottom: 70%;
+    background-color: goldenrod;
+  }
+  
+  #Elun{
+    position: absolute;
+    right: 60%;
+    bottom: 65%;
+    background-color: purple;
+    color:white;
+  }
+  
+  #Hanubia {
+    position: absolute;
+    right: 50%;
+    bottom: 90%;
+    background-color: darkblue;
+    color:white;
+  }
+  
+  #Itorash{
+    background-color: slategray;
+    color: rgb(0, 0, 100);
+    position: absolute;
+    right: 50%;
+    bottom: 98%;
+  }
+
+  #Dairon {
+      position: absolute;
+      right: 50%;
+      bottom: 35%;
+  }
+
+  #back{
+      position: absolute;
+      left: 0px;
+      top: 0px;
+      width: 8vh;
+      height: 8vh;
+  }
+
+  .mapContainer{
+      position: relative;
+  }
+
+  .buttonContainer{
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      top: 0;
+      left: 0;
+  }
+
+  .hidden {
+      display: none;
+  }
+
+  #sequenceBreaking > h1 {
+      text-align: center;
+  }
