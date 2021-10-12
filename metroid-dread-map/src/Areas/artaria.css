@@ -10,7 +10,7 @@
     bottom: 18.2%;
 }
 
-#energyPiece1{
+#energyTank1{
     position: absolute;
     left: 57.5%;
     bottom: 13%;
@@ -32,4 +32,10 @@
     position:absolute;
     left: 34.3%;
     bottom: 15%;
+}
+
+#missilePickup3{
+    position:absolute;
+    left: 29.5%;
+    bottom: 20.5%;
 }
