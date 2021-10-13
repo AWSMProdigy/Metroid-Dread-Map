@@ -1,3 +1,11 @@
+@font-face{
+  font-family: 'metroidFont';
+  src: url('./fonts/metroid.ttf');
+}
+
+*{
+  font-family: 'metroidFont';
+}
 header{
   display: flex;
   background-color: #282c34;

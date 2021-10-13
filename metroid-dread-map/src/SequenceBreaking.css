@@ -1,0 +1,20 @@
+@font-face{
+    font-family: 'metroidFont';
+    src: url('./fonts/metroid.ttf');
+}
+
+#sequenceBreaking{
+    background-color: gray;
+    font-family: 'metroidFont';
+}
+
+#sequenceBreaking > h1 {
+    text-align: center;
+    color: darkred;
+}
+
+.flexSequence {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}

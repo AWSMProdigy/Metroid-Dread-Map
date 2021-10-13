@@ -1,5 +1,6 @@
 import './App.css';
 import Overworld from './Overworld';
+import SequenceBreaking from './SequenceBreaking';
 
 
 function App() {
@@ -17,33 +18,7 @@ function App() {
         </div>
       </header>
     <Overworld/>
-    <section id="sequenceBreaking">
-      <h1>Known Sequence Breaks</h1>
-      <div>
-        <h2>Early grapple</h2>
-        <p>You gotta do the thing</p>
-      </div>
-      <div>
-        <h2>Early bombs</h2>
-        <p>You gotta do the thing</p>
-      </div>
-      <div>
-        <h2>Early Super Missle</h2>
-        <p>You gotta do the thing</p>
-      </div>
-      <div>
-        <h2>Early Gravity Suit</h2>
-        <p>You gotta do the thing</p>
-      </div>
-      <div>
-        <h2>Early Cross Bomb</h2>
-        <p>You gotta do the thing</p>
-      </div>
-      <div>
-        <h2>Early Green Teleporter</h2>
-        <p>You gotta do the thing</p>
-      </div>
-    </section>
+    <SequenceBreaking/>
     </div>
     
   );
