@@ -1,4 +1,4 @@
-#artaria{
+  #artaria{
     background-color: grey;
     color:white;
     position: absolute;
@@ -60,6 +60,7 @@
   }
 
   #Dairon {
+    
       position: absolute;
       right: 50%;
       bottom: 35%;
@@ -92,5 +93,21 @@
   #sequenceBreaking > h1 {
       text-align: center;
   }
+
+  .zoom{
+    width: 100vw;
+    max-width: 100%;
+    background: url("./images/Samus.jpg");
+    background-position: center center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    padding-bottom: 56.25%;
+    transition: .5s;
+  }
+
+  .zoomAnim{
+    background-size: 200%;
+  }
+
 
   

@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Metroid-Dread-Map/static/css/main.30306aee.chunk.css",
-    "main.js": "/Metroid-Dread-Map/static/js/main.3d8c8cd1.chunk.js",
-    "main.js.map": "/Metroid-Dread-Map/static/js/main.3d8c8cd1.chunk.js.map",
+    "main.css": "/Metroid-Dread-Map/static/css/main.90665f03.chunk.css",
+    "main.js": "/Metroid-Dread-Map/static/js/main.9fb57332.chunk.js",
+    "main.js.map": "/Metroid-Dread-Map/static/js/main.9fb57332.chunk.js.map",
     "runtime-main.js": "/Metroid-Dread-Map/static/js/runtime-main.11696e9a.js",
     "runtime-main.js.map": "/Metroid-Dread-Map/static/js/runtime-main.11696e9a.js.map",
     "static/js/2.283370eb.chunk.js": "/Metroid-Dread-Map/static/js/2.283370eb.chunk.js",
     "static/js/2.283370eb.chunk.js.map": "/Metroid-Dread-Map/static/js/2.283370eb.chunk.js.map",
     "index.html": "/Metroid-Dread-Map/index.html",
-    "static/css/main.30306aee.chunk.css.map": "/Metroid-Dread-Map/static/css/main.30306aee.chunk.css.map",
+    "static/css/main.90665f03.chunk.css.map": "/Metroid-Dread-Map/static/css/main.90665f03.chunk.css.map",
     "static/js/2.283370eb.chunk.js.LICENSE.txt": "/Metroid-Dread-Map/static/js/2.283370eb.chunk.js.LICENSE.txt",
     "static/media/Burenia.655a324e.jpg": "/Metroid-Dread-Map/static/media/Burenia.655a324e.jpg",
     "static/media/Cataris.90a4aa6b.jpg": "/Metroid-Dread-Map/static/media/Cataris.90a4aa6b.jpg",
@@ -25,7 +25,7 @@
   "entrypoints": [
     "static/js/runtime-main.11696e9a.js",
     "static/js/2.283370eb.chunk.js",
-    "static/css/main.30306aee.chunk.css",
-    "static/js/main.3d8c8cd1.chunk.js"
+    "static/css/main.90665f03.chunk.css",
+    "static/js/main.9fb57332.chunk.js"
   ]
 }

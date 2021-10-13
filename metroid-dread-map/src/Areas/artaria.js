@@ -15,7 +15,7 @@ function artaria(){
                 <Tooltip src={screwAttack} id="missilePickup1" text="Increase missile count by 2" alt="missilePickup1"></Tooltip>
                 <Tooltip src={screwAttack} id="missilePickup2" text="Increase missile count by 2" alt="missilePickup2"></Tooltip>
                 <Tooltip src={screwAttack} id="missilePickup3" text="Increase missile count by 2" alt="missilePickup3"></Tooltip>
-                <Tooltip src={screwAttack} id="energyPiece1" text="Collect 4 to increase energy by 100" alt="energyPiece1"></Tooltip>
+                <Tooltip src={screwAttack} id="energyPiece1" text="Collect 4 to increase energy by 100npm" alt="energyPiece1"></Tooltip>
             </section>
         </>
     )      
