@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Metroid-Dread-Map/static/css/main.90665f03.chunk.css",
-    "main.js": "/Metroid-Dread-Map/static/js/main.9fb57332.chunk.js",
-    "main.js.map": "/Metroid-Dread-Map/static/js/main.9fb57332.chunk.js.map",
+    "main.css": "/Metroid-Dread-Map/static/css/main.04158791.chunk.css",
+    "main.js": "/Metroid-Dread-Map/static/js/main.842b591c.chunk.js",
+    "main.js.map": "/Metroid-Dread-Map/static/js/main.842b591c.chunk.js.map",
     "runtime-main.js": "/Metroid-Dread-Map/static/js/runtime-main.11696e9a.js",
     "runtime-main.js.map": "/Metroid-Dread-Map/static/js/runtime-main.11696e9a.js.map",
-    "static/js/2.283370eb.chunk.js": "/Metroid-Dread-Map/static/js/2.283370eb.chunk.js",
-    "static/js/2.283370eb.chunk.js.map": "/Metroid-Dread-Map/static/js/2.283370eb.chunk.js.map",
+    "static/js/2.113ff92e.chunk.js": "/Metroid-Dread-Map/static/js/2.113ff92e.chunk.js",
+    "static/js/2.113ff92e.chunk.js.map": "/Metroid-Dread-Map/static/js/2.113ff92e.chunk.js.map",
     "index.html": "/Metroid-Dread-Map/index.html",
-    "static/css/main.90665f03.chunk.css.map": "/Metroid-Dread-Map/static/css/main.90665f03.chunk.css.map",
-    "static/js/2.283370eb.chunk.js.LICENSE.txt": "/Metroid-Dread-Map/static/js/2.283370eb.chunk.js.LICENSE.txt",
+    "static/css/main.04158791.chunk.css.map": "/Metroid-Dread-Map/static/css/main.04158791.chunk.css.map",
+    "static/js/2.113ff92e.chunk.js.LICENSE.txt": "/Metroid-Dread-Map/static/js/2.113ff92e.chunk.js.LICENSE.txt",
     "static/media/Burenia.655a324e.jpg": "/Metroid-Dread-Map/static/media/Burenia.655a324e.jpg",
     "static/media/Cataris.90a4aa6b.jpg": "/Metroid-Dread-Map/static/media/Cataris.90a4aa6b.jpg",
     "static/media/Dairon.0d11470f.jpg": "/Metroid-Dread-Map/static/media/Dairon.0d11470f.jpg",
@@ -19,13 +19,13 @@
     "static/media/Hanubia.597e5096.jpg": "/Metroid-Dread-Map/static/media/Hanubia.597e5096.jpg",
     "static/media/Itorash.68d41fcb.jpg": "/Metroid-Dread-Map/static/media/Itorash.68d41fcb.jpg",
     "static/media/Metroid_Dread_Artaria_map.77514fd8.jpg": "/Metroid-Dread-Map/static/media/Metroid_Dread_Artaria_map.77514fd8.jpg",
-    "static/media/Samus.22689645.jpg": "/Metroid-Dread-Map/static/media/Samus.22689645.jpg",
+    "static/media/Overworld.css": "/Metroid-Dread-Map/static/media/Samus.22689645.jpg",
     "static/media/ScrewAttack.039c7118.jpg": "/Metroid-Dread-Map/static/media/ScrewAttack.039c7118.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.11696e9a.js",
-    "static/js/2.283370eb.chunk.js",
-    "static/css/main.90665f03.chunk.css",
-    "static/js/main.9fb57332.chunk.js"
+    "static/js/2.113ff92e.chunk.js",
+    "static/css/main.04158791.chunk.css",
+    "static/js/main.842b591c.chunk.js"
   ]
 }
